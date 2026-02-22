@@ -1,0 +1,23 @@
+# Large data (use household_power_clean.zip and unzip locally)
+household_power_clean.csv
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.DS_Store
+*.swp
+*.swo
